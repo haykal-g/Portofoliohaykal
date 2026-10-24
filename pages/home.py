@@ -22,6 +22,8 @@ with st.container(border=True, key="welcome_hero"):
     with col2:
         st.video("pages/videohaykal.mp4")
 
+st.divider()
+
 st.subheader("⟪Jelajahi Portofolio Saya⟫")
 st.write("Pilih menu di bawah ini untuk melihat informasi lebih lanjut.")
 
